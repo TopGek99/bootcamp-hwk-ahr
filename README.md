@@ -11,8 +11,8 @@ The purpose of this project was to refactor the code of the Horiseon web applica
 
 ## Screenshots
 
-![screenshot](assets/screenshot1.png)
-![screenshot](assets/screenshot2.png)
+![screenshot](assets/screenshot1.PNG)
+![screenshot](assets/screenshot2.PNG)
 
 ## Links
 
