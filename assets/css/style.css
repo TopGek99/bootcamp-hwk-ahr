@@ -1,29 +1,30 @@
+/* Setting the window */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Applying background colour to body */
 body {
     background-color: #d9dcd6;
 }
-
+/* Page header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* h1 within Header */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* "seo" within the h1 */
 span {
     color: #d9dcd6;
 }
-
+/* Unordered list made into nav bar */
 ul {
     list-style-type: none;
     padding-top: 15px;
@@ -32,21 +33,21 @@ ul {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* List items made to be displayed horizontally rather than vertically */
 li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Links made to look like normal text */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* All paragraphs within the window */
 p {
     font-size: 16px;
 }
-
+/* Digital marketing meeting image displayed at the top of the page */
 #meeting-image {
     height: 800px;
     width: 100%;
@@ -55,23 +56,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Floats the first and third content sections left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Floats the second content section right */
 #float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Page content */
 content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Sidebar */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -82,23 +83,23 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Individual sections of sidebar */
 aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Images within sections of sidebar */
 aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* h3 within sections of sidebar */
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Individual sections of page content */
 content section {
     margin-bottom: 20px;
     padding: 50px;
@@ -107,23 +108,23 @@ content section {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Images within sections of page content */
 content section img {
     max-height: 200px;
 }
-
+/* h2 within sections of page content */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Page footer */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* h4 within footer */
 h4 {
     font-size: 20px;
 }
