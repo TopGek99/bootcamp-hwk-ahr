@@ -17,4 +17,4 @@ The purpose of this project was to refactor the code of the Horiseon web applica
 ## Links
 
 - Repo (Yes this one): https://github.com/TopGek99/bootcamp-hwk-wk1
-- Webpage: https://topgek99.github.io/bootcamp-hwk-wk1/
+- Webpage: https://topgek99.github.io/bootcamp-hwk-wk1-AHR/
